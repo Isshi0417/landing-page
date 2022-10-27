@@ -123,3 +123,30 @@ a {
     font-size: 10px;
     text-align: center;
 }
+
+/* Quote */
+.quote {
+    background-color: #E5E7EB;
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+}
+
+.testimonial {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    margin: 0 0 10px 0;
+    width: 100%;
+    padding: 0;
+}
+
+.name {
+    font-weight: bold;
+    display: flex;
+    justify-content: right;
+    margin: 0;
+    padding: 0;
+    width: 90%;
+}
