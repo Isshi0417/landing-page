@@ -194,3 +194,15 @@ a {
     border-width: 1px;
     border-color: #F9FAF8;
 }
+
+/* Footer */
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 25px;
+}
